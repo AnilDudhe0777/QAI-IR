@@ -1,0 +1,10 @@
+qiskit
+qiskit-aer
+pylatexenc
+matplotlib
+qiskit.execute
+ipykernel
+execute
+
+mthree
+
